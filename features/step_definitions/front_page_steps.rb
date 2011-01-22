@@ -1,3 +1,5 @@
+#alteracao para git
+
 Given /^I have a post$/ do
   @post = Post.create
 end
